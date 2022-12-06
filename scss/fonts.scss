@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&family=Outfit:wght@500;600;700&family=Rubik:wght@400;500;600;700&display=swap');
+
+@font-face {
+    font-family: 'Graphik Regular';
+    font-weight: 400;
+    src: url(../fonts/graphik/GraphikRegular.otf);
+}
+
+@font-face {
+    font-family: 'Graphik Medium';
+    font-weight: 500;
+    src: url(../fonts/graphik/GraphikMedium.otf);
+}
+@font-face {
+    font-family: 'Graphik Semibold';
+    font-weight: 600;
+    src: url(../fonts/graphik/GraphikSemibold.otf);
+}
+
+body{
+    font-family: 'Rubik', sans-serif;
+}
